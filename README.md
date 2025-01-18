@@ -14,6 +14,7 @@ These data cleaning steps ensured that the dataset was well structured, with no 
 • Jupyter Notebook: Documented and visualized the entire workflow for reproducibility
 ## Python Code and Results:
 Below was the Python Code used to for data cleaning and the output of the results:
+```python
 # Import pandas to handle the data
 import pandas as pd
 # Load the dataset
