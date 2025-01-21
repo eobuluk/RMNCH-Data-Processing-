@@ -63,4 +63,4 @@ df.columns = df.columns.str.strip().str.lower()
 # Print the updated column names
 df.columns
 ```
-![Cleaned Dataset with Updated Column Names](Data_Cleaning_Output.jpg)
+![Cleaned Dataset with Updated Column Names](results/Data_Cleaning_Output.jpg)
